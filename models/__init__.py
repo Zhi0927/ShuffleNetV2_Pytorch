@@ -1,0 +1,1 @@
+from .ShuffleV2 import ShuffleNetV2
